@@ -1,0 +1,1 @@
+☢️🔳️📖️ The official documentation source repository for FloweredNotch, a malware that places custom patterns over the unseeable part of your screen (due to hardware notches) it is a protest of hardware notches, and will only show up if you are recording/taking a screenshot.
